@@ -1,0 +1,15 @@
+{
+  "first_name": "Shivanshu",
+  "last_name": "Goyal",
+  "date_of_birth": "invalid_dob",
+  "checkin_datetime": 1629037215000,
+  "checkout_datetime": 1629210015000,
+  "total_price": 1500.70,
+  "deposit": 500.70,
+  "address": {
+    "line1": "DSR Bellandur",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "zip_code": "560103"
+  }
+}
